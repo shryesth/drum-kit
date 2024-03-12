@@ -1,2 +1,2 @@
-# drum-kit
-drum kit made using javascript
+# Drum-Kit
+Drum Kit made using JavaScript
